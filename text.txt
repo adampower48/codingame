@@ -1,0 +1,2 @@
+minimax w/ A-B pruning: 281363 calls
+minimax w/ A-B pruning, Zobrist Hasing: 7416 calls
